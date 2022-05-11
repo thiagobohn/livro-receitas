@@ -1,5 +1,5 @@
-#Exemplo de receita
+# Exemplo de receita
 
-####Ingredientes:
-- Cebola
-- Alho
+#### Ingredientes:
+ - Cebola
+ - Alho
